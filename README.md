@@ -60,3 +60,6 @@ Improve delivery staff trainin
 <br>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)<br>
 Jupyter Notebook<br>
 Machine Learning: Linear & Logistic Regression
+
+✅<b> Conclusion:</b>
+<br>This project effectively uses machine learning to predict food delivery times. Linear Regression helped estimate delivery duration, while Logistic Regression classified orders as fast or delayed. Key influencing factors include traffic, weather, and distance. The insights can help optimize delivery routes, manage peak-hour staffing, and improve customer satisfaction.
